@@ -1,0 +1,9 @@
+Hello git
+Git is awesome.
+new line from home
+<<<<<<< HEAD
+added some information on site 
+git
+=======
+added some information on site.
+>>>>>>> a795e4491c945e415201e484667a98fd7206a6a6
